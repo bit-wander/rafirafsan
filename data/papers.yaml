@@ -8,16 +8,15 @@
   job_market_paper: true
   tags: ["Hyperspectral Images", "Transformers", "Deep Learning", "Computational Models"]
 
-- title: "Information System Analysis & Design: Brac Urban Development Program (UDP)"
-  authors: ["Adnan Zawad Toky", "Rafi Rafsan", "Mohammad Sakif Alam", "Md. Minhazul Islam", "Sanjida Ferdousi"]
-  year: 2024
-  status: "academic project"
-  venue: "Rajshahi University of Engineering & Technology"
-  pdf: "files/sys_brac.pdf"
-  presentation_pdf: "files/system_analysis_brac_udp.pdf"
-  abstract: "A comprehensive structural analysis and system design report for the Brac Urban Development Program (UDP). This project models data workflows, system requirements, and user interactions to modernize and streamline municipal service delivery."
+- title: "Sentiment Syndicate at SemEval-2026 Task 6: Reframing Political Question–Answer Interactions via Natural Language Inference for Clarity Level Classification"
+  authors: ["Rafi Rafsan"]
+  year: 2026
+  status: "shared task paper"
+  venue: "Proceedings of the 20th International Workshop on Semantic Evaluation (SemEval-2026)"
+  pdf: "files/semeval_shared_task_2026_6.pdf"
+  abstract: "Sentiment Syndicate team's submission to SemEval-2026 Task 6, Subtask 1 (CLARITY: Unmasking Political Question Evasions), which focuses on classifying the clarity level of political question–answer interactions. This work evaluates RoBERTa-based fine-tuning, Natural Language Inference (NLI) formulations, and Large Language Models (LLMs), demonstrating that the NLI-based formulation modeling semantic alignment between questions and answers achieves the best F1-score of 0.67 on the test set."
   job_market_paper: false
-  tags: ["Systems Analysis", "Information Design", "UDP", "Software Engineering"]
+  tags: ["Natural Language Inference", "Clarity Classification", "Computational Social Science", "RoBERTa", "LLMs"]
 
 - title: "User Experience and Acceptance of AI"
   authors: ["Rafsan Rafi", "Mohammad Sakif Alam", "Abdun Nur Wasit", "Minhazul Islam", "Shefat Zeon", "Sanjida Ferdousi", "Maruf Mehad", "Nihal Morshed"]
@@ -28,3 +27,14 @@
   abstract: "An analytical study on user experience (UX) and acceptance factors in the adoption of AI technologies, focusing specifically on AI copilots, voice assistants, virtual reality (VR), and augmented reality (AR). It highlights the importance of interface transparency, interaction complexity, and design optimizations to promote user trust and technology utilization."
   job_market_paper: false
   tags: ["User Experience", "AI Acceptance", "AI Copilot", "Voice Assistants", "AR/VR"]
+
+- title: "Information System Analysis & Design: Brac Urban Development Program (UDP)"
+  authors: ["Adnan Zawad Toky", "Rafi Rafsan", "Mohammad Sakif Alam", "Md. Minhazul Islam", "Sanjida Ferdousi"]
+  year: 2024
+  status: "academic project"
+  venue: "Rajshahi University of Engineering & Technology"
+  pdf: "files/sys_brac.pdf"
+  presentation_pdf: "files/system_analysis_brac_udp.pdf"
+  abstract: "A comprehensive structural analysis and system design report for the Brac Urban Development Program (UDP). This project models data workflows, system requirements, and user interactions to modernize and streamline municipal service delivery."
+  job_market_paper: false
+  tags: ["Systems Analysis", "Information Design", "UDP", "Software Engineering"]
