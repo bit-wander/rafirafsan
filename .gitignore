@@ -1,0 +1,16 @@
+# Hugo build directories
+public/
+resources/
+.hugo_build.lock
+
+# Local Hugo binary
+bin/
+
+# Scratch and temporary directories
+scratch/
+
+# Raw source files (already copied to static/files/ and static/images/)
+/*.pdf
+/*.jpg
+/UNDERGRAD_STUDENT_SITE_INTAKE.txt
+/UNDERGRAD_STUDENT_SITE_PROMPT.md

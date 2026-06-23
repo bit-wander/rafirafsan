@@ -1,0 +1,14 @@
+- name: "Astha"
+  description: "A comprehensive patient management system that enables healthcare providers to securely track, search, and analyze medical histories and patient records."
+  url: "https://github.com/bit-wander"
+  language: "JavaScript / Web"
+
+- name: "Sarangsho"
+  description: "A book-reading companion and tracking platform that allows users to monitor their reading habits, compile summaries, and share literature insights."
+  url: "https://github.com/bit-wander"
+  language: "JavaScript / Web"
+
+- name: "Porichorja"
+  description: "An AI-powered agricultural assistant designed to address farming queries, offer crop management advice, and assist with localized agricultural challenges."
+  url: "https://github.com/bit-wander"
+  language: "Python / AI"

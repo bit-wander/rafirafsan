@@ -1,0 +1,14 @@
+<nav class="nav-bar">
+  <div class="nav-container">
+    <a href="{{ "/" | relURL }}" class="nav-brand"><strong>{{ .Site.Title }}</strong></a>
+    <input type="checkbox" id="nav-toggle" class="nav-toggle" aria-label="Toggle Menu">
+    <label for="nav-toggle" class="nav-toggle-label" aria-label="Toggle Menu">
+      <span class="hamburger-icon"></span>
+    </label>
+    <ul class="nav-menu">
+      {{ range .Site.Menus.main }}
+      <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+      {{ end }}
+    </ul>
+  </div>
+</nav>

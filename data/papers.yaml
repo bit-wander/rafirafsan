@@ -1,0 +1,30 @@
+- title: "Leveraging Transformer Based Model for Enhanced Hyperspectral Image Classification"
+  authors: ["Rafi Rafsan"]
+  year: 2025
+  status: "undergraduate thesis"
+  venue: "Rajshahi University of Engineering & Technology"
+  pdf: "files/thesis_presentation.pdf"
+  abstract: "An exploration of hyperspectral image classification when labeled samples are scarce. This research leverages transformer-based architectures to capture spectral-spatial dependencies, achieving high classification accuracy with limited training data."
+  job_market_paper: true
+  tags: ["Hyperspectral Images", "Transformers", "Deep Learning", "Computational Models"]
+
+- title: "Information System Analysis & Design: Brac Urban Development Program (UDP)"
+  authors: ["Adnan Zawad Toky", "Rafi Rafsan", "Mohammad Sakif Alam", "Md. Minhazul Islam", "Sanjida Ferdousi"]
+  year: 2024
+  status: "academic project"
+  venue: "Rajshahi University of Engineering & Technology"
+  pdf: "files/sys_brac.pdf"
+  presentation_pdf: "files/system_analysis_brac_udp.pdf"
+  abstract: "A comprehensive structural analysis and system design report for the Brac Urban Development Program (UDP). This project models data workflows, system requirements, and user interactions to modernize and streamline municipal service delivery."
+  job_market_paper: false
+  tags: ["Systems Analysis", "Information Design", "UDP", "Software Engineering"]
+
+- title: "User Experience and Acceptance of AI"
+  authors: ["Rafsan Rafi", "Mohammad Sakif Alam", "Abdun Nur Wasit", "Minhazul Islam", "Shefat Zeon", "Sanjida Ferdousi", "Maruf Mehad", "Nihal Morshed"]
+  year: 2025
+  status: "technical writing"
+  venue: "Rajshahi University of Engineering & Technology"
+  pdf: "files/user_experience_acceptence.pdf"
+  abstract: "An analytical study on user experience (UX) and acceptance factors in the adoption of AI technologies, focusing specifically on AI copilots, voice assistants, virtual reality (VR), and augmented reality (AR). It highlights the importance of interface transparency, interaction complexity, and design optimizations to promote user trust and technology utilization."
+  job_market_paper: false
+  tags: ["User Experience", "AI Acceptance", "AI Copilot", "Voice Assistants", "AR/VR"]

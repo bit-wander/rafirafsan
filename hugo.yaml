@@ -1,0 +1,35 @@
+baseURL: "https://bit-wander.github.io/rafirafsan/"
+title: "Rafi Rafsan"
+languageCode: en-us
+
+
+params:
+  description: "Computer Science Graduate | Computational Social Science & Autonomous Systems"
+  author: "Rafi Rafsan"
+  email: "rafi.rafsan.contact@gmail.com"
+  tagline: "I study the intersection of human social behavior and autonomous systems through computational models."
+  github: "https://github.com/bit-wander"
+  linkedin: "https://www.linkedin.com/in/rafi-rafsan-b72935223"
+
+menu:
+  main:
+    - name: "About"
+      url: "/#about"
+      weight: 10
+    - name: "Research"
+      url: "/#research"
+      weight: 20
+    - name: "Projects"
+      url: "/#projects"
+      weight: 30
+    - name: "CV"
+      url: "/files/cv.pdf"
+      weight: 40
+    - name: "Contact"
+      url: "/#contact"
+      weight: 50
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
