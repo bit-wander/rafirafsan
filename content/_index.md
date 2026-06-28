@@ -3,7 +3,6 @@ title: "Rafi Rafsan"
 research_interests:
   - "Computational Social Science"
   - "Autonomous Systems"
-  - "UAV / Drone Systems"
 ---
 
 I am a computer science graduate from Rajshahi University of Engineering & Technology. During my undergraduate time, I worked on hyperspectral images and how to classify them when labeled samples are scarce, utilizing advanced transformer-based neural network models to capture spectral-spatial dependencies.
