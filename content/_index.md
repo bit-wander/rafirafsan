@@ -10,4 +10,4 @@ I am a computer science graduate from Rajshahi University of Engineering & Techn
 
 My broader research goal is to understand the social impact of technology and how it influences human behavior and decision-making in specific scenarios. I am particularly drawn to the space where human behavior meets autonomous systems, using computational models to study how these two worlds influence each other.
 
-Outside of my academic life, I love to do photography, learn new things, and spend time with people. I was also deeply involved in establishing the first drone research group at my university, promoting collaborative research in unmanned aerial systems.
+Outside of my academic life, I love to do photography, learn new things, and spend time with people.
